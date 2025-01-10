@@ -1,0 +1,2 @@
+# Deep-Learning-for-Marine-Debris-Detection-Using-Commercial-Satellite-Imagery
+This project uses commercial satellite imagery and deep learning to detect marine debris in oceans and coastal regions. By training convolutional neural networks on high-resolution images, it identifies and maps debris hotspots, aiding in environmental monitoring, cleanup planning, and marine conservation efforts globally.
